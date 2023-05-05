@@ -2,12 +2,12 @@ import { Fragment } from 'react';
 import styles from './Header.module.css';
 import HeaderCartButton from './HeaderCartButton';
 
-const Header = () => {
+const Header = (props) => {
     return (
         <Fragment>
             <header className={styles.header}>
                 <h1>Golden Dragon</h1>
-                <HeaderCartButton />
+                <HeaderCartButton onClick={props.onShowCart} />
             </header>
             <div className={styles['main-image']}>
                 <img

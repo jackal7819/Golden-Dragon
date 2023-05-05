@@ -2,9 +2,11 @@
 
 ## React, CSS, Hooks - useState, useEffect, useContext, useRef, useReducer
 
-### Demo - https://typicalpage.onrender.com
+### Sushi and rolls delivery application for the Golden Dragon restaurant
 
-------
+### Demo - https://goldendragon.onrender.com
+
+---
 
 ## Available Scripts
 
