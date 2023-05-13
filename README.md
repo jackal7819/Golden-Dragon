@@ -1,6 +1,6 @@
 # Golden Dragon
 
-## React, CSS, Hooks - useState, useEffect, useContext, useRef, useReducer
+## React, CSS, Hooks - useState, useEffect, useContext, useRef, useReducer, Firebase
 
 ### Sushi and rolls delivery application for the Golden Dragon restaurant
 
